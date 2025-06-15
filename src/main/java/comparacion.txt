@@ -1,0 +1,29 @@
+Comparación entre Programación Tradicional y Programación Orientada a Objetos (POO)
+
+Nombre: Lilian Paulina Quijije Coral
+Materia: Programación Orientada a Objetos
+
+Programación Tradicional (Estilo funcional o estructurado)
+
+En esta forma de programación, todo el código está organizado en funciones independientes. 
+Se usa un arreglo para guardar las temperaturas y se crean dos funciones principales: 
+una para ingresar los datos y otra para calcular el promedio. 
+No se usan clases ni objetos, y el enfoque es más directo y lineal. 
+Es útil para tareas simples y rápidas, pero se puede volver difícil de mantener si el programa crece.
+
+Programación Orientada a Objetos (POO)
+
+Aquí el problema se organiza en clases. Se crean objetos para representar cada día de clima, 
+y una clase principal que agrupa toda la semana. Se aplica el concepto de encapsulamiento, 
+usando atributos privados y métodos públicos para acceder a ellos. 
+
+Aunque no se usaron herencia o polimorfismo (porque no eran necesarios en este caso),
+sí se refleja una estructura más clara y ordenada. Esta forma de programar es más escalable 
+y facilita el mantenimiento a futuro.
+
+Para concluir se puede decir que ambas formas de programación resuelven el mismo problema, pero con enfoques distintos. 
+La programación tradicional es más sencilla y directa, ideal para cosas pequeñas. 
+La POO, en cambio, permite una mejor organización del código, lo hace más fácil de entender, 
+y es más adecuada para proyectos grandes. 
+
+
